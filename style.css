@@ -5,9 +5,7 @@
     list-style: 0;
     box-sizing: border-box;
 }
-:root{
-    content: url("./assets/one.png") url("./assets/two.png") url("./assets/three.png") url("./assets/four.png") url("./assets/five.png") url("./assets/six.png");
-}
+
 .container{
     height: 100vh;
     width: 100vw;
